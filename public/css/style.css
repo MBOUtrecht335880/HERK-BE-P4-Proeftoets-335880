@@ -47,4 +47,14 @@ u {
 
 a {
     text-align: center;
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    margin: 0 500px 0 500px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+a:visited {
+    text-decoration: none;
 }
