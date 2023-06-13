@@ -36,13 +36,15 @@ th {
   padding-top: 12px;
   padding-bottom: 12px;
   text-align: left;
-  background-color: #2e00d5;
+  background-color: #4f4f4f;
   color: white;
 }
 
 u {
     margin-bottom: 20px;
     text-align: center;
+    font-size: 30px;
+    font-weight: bold;
 }
 
 a {
