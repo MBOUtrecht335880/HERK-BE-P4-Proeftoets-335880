@@ -26,7 +26,7 @@ class Leerling extends BaseController
         }
         
         $data = [
-            'title' => 'Overzicht RijlesPakketen Leerlingen',
+            'title' => 'Overzicht Rijles Pakketen Leerlingen',
             'rows' => $rows
         ];
 
