@@ -51,10 +51,18 @@ a {
     background-color: black;
     color: white;
     margin: 0 500px 0 500px;
-    padding: 20px;
-    border-radius: 20px;
+    padding: 15px;
+    border-radius: 10px;
+    transition: 300ms ease-in-out;
+    border: black solid 2px;
 }
 
 a:visited {
     text-decoration: none;
+}
+
+a:hover {
+    transform: scale(1.05);
+    color: black;
+    background-color: white;
 }
