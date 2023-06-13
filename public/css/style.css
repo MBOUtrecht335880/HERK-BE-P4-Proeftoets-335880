@@ -9,6 +9,7 @@ body {
 h3,
 h2 {
   text-align: center;
+  font-size: 40px;
 }
 
 table {
@@ -41,4 +42,9 @@ th {
 
 u {
     margin-bottom: 20px;
+    text-align: center;
+}
+
+a {
+    text-align: center;
 }
